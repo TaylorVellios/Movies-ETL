@@ -1,2 +1,2 @@
 # Movies-ETL
-ETL - Python to postgreSQL
+Exploring the bounds of ETL with raw data, manipulating with python, and storing in postgres.
